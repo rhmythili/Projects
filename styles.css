@@ -1,0 +1,72 @@
+body{
+	
+	background-image: url("Images/background.jpg");
+	background-repeat: no-repeat;
+	font-family:"Comic Sans MS";
+	text-align: center;
+	background-size: cover;
+}
+
+p{
+    color:green;
+    font-size: 15px;
+}
+.home_para
+{
+	font-size: 15px;
+	color:Blue;
+}
+
+
+h1{
+	color:Brown;
+}
+
+h4{
+	color:orange;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+	color:black;
+	text-align: center;
+}
+
+table{
+	width:600px;
+	margin:0 auto;
+	margin-top:-10em;
+	padding-top:0px;
+}
+
+.login-table {
+	margin-top:0px;
+	width:600px;
+	margin:0 auto;
+	padding-top:0px;
+}
+.container,video{
+	float:center;
+}
+span{
+	color:red;
+}
+	
+#footer, #footer_reg{
+	padding-top: 10px;
+   	height:30px;
+	bottom:0;
+	width:100%;
+	clear:both;
+	background:#fff;
+}
+	
+#footer_reg{
+	position:relative;
+}
+
+#footer{
+	position:absolute;
+}
